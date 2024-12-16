@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#section {
+    margin: 0 auto;
+    max-width: 1604px;
+    width: 100%;
+    height: 2344px;
+    padding: 96px;
+    background-color: #E4EBFF;
+    margin-top: 64px;
+}
+
+#featureSection {
+    background-color: #FFFFFF;
+    height: 2152px;
+    padding-top: 96px;
+    padding-bottom: 101px;
+}
+
+#headerTitle {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: #6941C6;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#analytic {
+    text-align: center;
+    color: #181D27;
+    font-family: "Inknut Antiqua";
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#headerText {
+    color: #535862;
+    text-align: center;
+    font-family: "Inria Sans";
+    font-size: 20px;
+}
+
+#containerSecond {
+    margin-left: 96px;
+    max-width: 1344px;
+    width: 100%;
+    height: 512px;
+    margin-top: 96px;
+}
+
+#firstContent {
+    display: inline-block; 
+    vertical-align: middle; 
+    width: 45%; 
+    margin-left: 32px;
+}
+
+#inboxes {
+    margin-top: 20px;
+    color: #181D27;
+    font-family: Inter;
+    font-weight: 600;
+}
+
+#inboxesText {
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 16px;
+}
+
+#chechsInbox {
+    max-width: 560px;
+    width: 100%;
+    padding-left: 16px;
+    margin-top: 32px;
+    height: 124px;
+}
+
+#imageFirst, #imageSecond, #imageThird {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#imageTextFirst {
+    margin-left: 12px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#checkSecond, #checkThird {
+    margin-top: 20px;
+}
+
+#bigImage {
+    display: inline-block; 
+    vertical-align: middle;
+    width: 50%;
+    height: 100%; 
+}
+
+#containerFourth {
+    margin-top: 101px;
+    margin-left: 96px;
+    max-width: 1317px;
+    width: 100%;
+}
+
+#imageFourth {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 672px;
+    width: 100%;
+    height: 512px;
+}
+
+#instantAnswers {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 560px;
+    width: 100%;
+    margin-left: 80.5px;
+}
+
+#iconSecond {
+    width: 48px;
+    height: 48px;
+}
+
+#deliver {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+    margin-top: 20px;
+}
+
+#an {
+    font-family: Inter;
+    font-size: 18px;
+    color: #535862;
+    margin-top: 16px;
+}
